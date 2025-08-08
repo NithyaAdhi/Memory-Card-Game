@@ -20,7 +20,7 @@ A dynamic and interactive Memory Card Game built with React, designed to test a 
 
 This project was built with a focus on modern React best practices.
 
--   **State Management:** The entire game state is managed predictably using the **`useReducer`** hook, which centralizes all state transition logic into a single reducer function. This approach is ideal for handling the complex, interconnected state of a game.
+-   **State Management:** The entire game state is managed predictably using the **`useReducer`** hook, which centralizes all state transition logic into a single reducer function. 
 -   **Component Architecture:** The application is structured with a clean separation of concerns:
     -   A "smart" **container component** (`Game.js`) that manages all logic.
     -   "Dumb" **presentational components** (`Board.js`, `Card.js`, `GameInfo.js`) that are reusable and only responsible for rendering the UI.
@@ -29,7 +29,10 @@ This project was built with a focus on modern React best practices.
 
 ### Technologies Used
 
--   **React** (including Hooks: `useReducer`, `useEffect`)
+-   **React** 
 -   **JavaScript (ES6+)**
 -   **CSS3** (Grid, Flexbox, Transforms)
 -   **Framer Motion** (for tap animations)
+
+  <img width="804" height="783" alt="image" src="https://github.com/user-attachments/assets/b1017387-6241-474a-8070-2db332c20486" />
+
