@@ -2,6 +2,8 @@
 
 A dynamic and interactive Memory Card Game built with React, designed to test a player's memory and strategy. This application features a clean UI, smooth animations, and advanced game mechanics including special card types for an extra layer of challenge.
 
+**Live Demo:** [https://memory-card-game](https://memory-card-game-eight-ashy.vercel.app/)
+
 ### Key Features
 
 -   **Classic Memory Game Logic:** A 4x4 grid of cards is dynamically generated and shuffled, challenging the user to find matching pairs.
